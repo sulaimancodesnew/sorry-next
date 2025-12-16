@@ -63,8 +63,8 @@ export default function HugPage({ setCurrentPage }) {
         {/* Cute aura around teddy */}
         <div className="absolute inset-0 bg-gradient-to-r from-pink-400/25 to-red-400/25 rounded-full blur-2xl scale-110"></div>
         <img
-          src="/gifs/teddy-hug.gif"
-          alt="Teddy with open arms"
+          src="/gifs/teddy-saying sorry.gif"
+          alt="Teddy doing situps"
           className=" mx-auto rounded-2xl relative z-10"
         />
 
@@ -96,7 +96,7 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="text-2xl text-pink-200 leading-relaxed"
         >
-          I don’t need anything fancy right now…
+          I know this wont change everything....
         </motion.p>
         <motion.p
           initial={{ opacity: 0, y: 15 }}
@@ -104,7 +104,7 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 1.1 }}
           className="text-xl text-purple-200 leading-relaxed"
         >
-          Just your arms around me, that’s all I want.💕
+          but can you please give me a chance 💕
         </motion.p>
       </motion.div>
 
