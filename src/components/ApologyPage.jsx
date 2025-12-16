@@ -7,6 +7,7 @@ export default function ApologyPage({ setCurrentPage }) {
   const [currentText, setCurrentText] = useState(0)
 
   const texts = ["I know I hurt you...", "You didn't deserve that...", "I was wrong, and I'm so sorry..."]
+  
 
   useEffect(() => {
     const interval = setInterval(() => {
