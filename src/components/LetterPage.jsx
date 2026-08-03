@@ -129,7 +129,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
             className="text-xl text-purple-200 leading-relaxed"
           >
-           Shezuka ❤️, you're so beautiful, and I'm truly sorry for being rude to you. I never wanted to hurt your heart. 💔
+           Shezuka ❤️ you are so beautiful and I am truly sorry for being rude to you. I never wanted to hurt your heart. 💔
           </motion.p>
 
           <motion.p
@@ -138,7 +138,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            Shezuka ❤️, I know saying "I'm sorry" can't erase the pain I caused, but I want you to know how deeply I regret my behavior. You mean so much to me, and it hurts knowing that my words made you sad. I've been thinking about all the beautiful memories we've shared, and I realize how lucky I am to have someone as kind and wonderful as you in my life. I promise to be more patient, more understanding, and to treat you with the love and respect you truly deserve. ✨❤️
+            Shezuka ❤️ I know saying I'm sorry can't erase the pain I caused, but I want you to know how deeply I regret my behavior. You mean so much to me, and it hurts knowing that my words made you sad. I've been thinking about all the beautiful memories we've shared, and I realize how lucky I am to have someone as kind and wonderful as you in my life. I promise to be more patient, more understanding, and to treat you with the love and respect you truly deserve. ✨❤️
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
@@ -146,7 +146,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ delay: 3, duration: 0.8 }}
             className="text-pink-300 text-xl mt-6"
           >
-            Shezuka ❤️, can you please forgive me? I don't want to lose your smile. 💖
+            Shezuka ❤️ can you please forgive me? I don't want to lose your smile. 💖
           </motion.p>
 
         </motion.div>
