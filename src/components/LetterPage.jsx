@@ -21,7 +21,7 @@ export default function LetterPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="text-2xl text-pink-300 mb-8 mt-10 md:mt-0"
         >
-          I've been staring at these all night…🌙
+          my cutiest malkin🌙
         </motion.h2>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
@@ -129,7 +129,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
             className="text-xl text-purple-200 leading-relaxed"
           >
-           Shezuka ❤️ you are so beautiful and I am truly sorry for being rude to you. I never wanted to hurt your heart. 💔
+           maine apni pyari malkin ko hurt kr diya 😥🥺 I'm so sorry💔
           </motion.p>
 
           <motion.p
@@ -138,7 +138,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            Shezuka ❤️ I know saying I'm sorry can't erase the pain I caused, but I want you to know how deeply I regret my behavior. You mean so much to me, and it hurts knowing that my words made you sad. I've been thinking about all the beautiful memories we've shared, and I realize how lucky I am to have someone as kind and wonderful as you in my life. I promise to be more patient, more understanding, and to treat you with the love and respect you truly deserve. ✨❤️
+            malkin pata hai maine glti ki hai maujhe aisa behave nhi krna chahiye tha dil me  aapke liye pyaar kabhi kam nhi hoga Bs aapka sath chahiye hamesha 🥺❤️ really mai mujhe tumhara sath chahiye right now you means everything to me dil me bss aapke liye pyar kabhi kam nahi hoga. Bas aapka saath chahiye, hamesha. 🥺❤️ tum meri life a wo part bn gyi ho jiski choti si baat meri khushi ban jati hai aur apki narazgi mujhe andar tak udaas kar deti hai main nahi chahta ki mere gusse ki wajah se aap mujhse door ho jao I really love and enjoyed all our beautiful moments together mujhe pata hai mainae glt behaviour show kiya tha nahi krna chahiye tha aisa i know maine tumne bhot jyada hurt kr diya hai  I promise to do better to be better for you✨ Aap meri zindagi ka woh khoobsurat hissa ho jise mai kabhi khona nahi chahta I love youAap meri zindagi ka woh khoobsurat hissa ho jise main kabhi khona nahi chahta. I love youAap meri zindagi ka woh khoobsurat hissa ho jise main kabhi khona nahi chahta I love you Malkin jii 🫶 bhul gaya tha ki aapko bhi pyar ki jarurat hai😖😟 
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
@@ -146,7 +146,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ delay: 3, duration: 0.8 }}
             className="text-pink-300 text-xl mt-6"
           >
-            Shezuka ❤️ can you please forgive me? I don't want to lose your smile. 💖
+             can you please forgive me? I don't want to lose your smile. 💖
           </motion.p>
 
         </motion.div>
